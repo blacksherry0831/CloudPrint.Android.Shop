@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/pannel_general_info"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/id_devices_item_status_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ps_print_printing_status" />
+
+    </LinearLayout>
+           
+   <RelativeLayout
+       android:layout_width="wrap_content"
+       android:layout_height="100dp"
+       android:layout_marginBottom="0dp"
+       android:layout_marginLeft="4dp"
+       android:layout_marginRight="10dp"
+       android:layout_marginTop="8dp"
+       android:background="@drawable/pannel_general_info"
+       android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/id_devices_item_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="print_out_item_list_test"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" >
+
+		 </TextView>
+
+      <Button
+          android:id="@+id/id_devives_detail_item_button"
+          android:layout_width="100dp"
+          android:layout_height="36dp"
+          android:layout_alignParentBottom="true"
+          android:layout_alignParentRight="true"
+          android:layout_gravity="bottom|right"
+          android:layout_marginBottom="6dp"
+          android:layout_marginRight="6dp"
+          android:background="@drawable/main_button_search"
+          android:text="详细信息"
+          android:textColor="@android:color/white"
+          android:textSize="20sp"
+          android:textStyle="bold" />
+
+    </RelativeLayout>
+   
+
+ 
+
+ 
+
+</LinearLayout>

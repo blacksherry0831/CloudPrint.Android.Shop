@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">亲打印-商户版</string>
+    <string name="action_settings">博客地址</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="baidu_map_key">VIcBn4FS8PONfy6KDpkI9HWj</string>
+    
+    <!-- shop main view -->
+    <string name="shop_my_shop_title">亲打印-商户版</string>
+    <string name="shop_search_shop_text_view">指定店铺</string>
+    <string name="shop_all_shop_text_view">所有店铺</string>
+    <string name="shop_search_button_txt">搜    索</string>
+    <string name="view_item_business">业务统计</string>
+    <string name="view_item_device_state_info">设备状态</string>
+    <string name="view_item_finance_info">财务信息</string>
+    <string name="view_item_search_order_info">订单查询</string>
+    <string name="view_item_exit_app">系统退出</string>
+    <string name="map_text_print_name">打印店：</string>
+    <string name="map_text_print_addr">地址：</string>
+    <!-- 业务统计 -->
+    <string name="business_title">业务统计</string>
+    <string name="business_title_turnover_money">营业额统计</string>
+    <string name="business_title_turnover_count">业务量统计</string>
+    <string name="business_search_button_txt">查    询</string>
+    <!-- 财务信息 -->
+    <string name="finance_info_title">财务信息</string>
+    <string name="finance_info_title_profit_in">财务收入</string>
+    <string name="finance_info_title_profit_out">财务支出</string>
+    <string name="finance_info_title_profit_get">利润情况</string>
+    <string name="finance_info_title_tax">纳税情况</string>
+    <string name="finance_info_title_asset">资产情况</string>
+    <string name="finance_info_title_asset_current_asset">流动资金</string>
+    <string name="finance_info_title_collection_1">应收账款</string>
+    <string name="finance_info_title_collection_2">应收款</string>
+    <string name="finance_info_button_txt">查    询</string>
+    <!-- 设备状态 -->
+    <string name="device_state_info_title">设备状态</string>
+    <string name="device_state_info_print_free">空闲</string>
+    <string name="device_state_info_print_printing">正在打印</string>
+    <string name="device_state_info_print_offline">离线</string>
+    <string name="device_state_info_detail_button_txt">详细信息</string>
+    <!-- 状态详细信息 -->
+    <string name="device_state_detail_title">状态详细信息</string>
+    <string name="device_state_detail_status_title">状态</string>
+    <string name="device_state_detail_carbon_black_title">碳粉</string>
+    <string name="device_state_detail_paper_title">输送纸盘</string>
+    <string name="device_state_detail_count_title">计数器</string>
+    <string name="device_state_detail_count_clear_button">清零</string>
+    <!-- 订单查询 -->
+    <string name="search_order_title">订单查询</string>
+    <string name="search_order_id">订单号</string>
+    <string name="search_order_button_txt">搜    索</string>
+    <string name="search_user_name">用户名</string>
+    <string name="search_order_time">提交订单时间</string>
+    <string name="search_ptint_point_name">打印店名称</string>
+    <string name="search_ptint_point_address">打印店地址</string>
+    <string name="search_ptint_point_time">打印时间</string>
+    <string name="search_ptint_point_status">打印状态</string>
+    <string name="title_activity_business">BusinessActivity</string>
+    <string name="title_activity_finance">FinanceActivity</string>
+    <string name="title_activity_device_status_multi">DeviceStatusMultiActivity</string>
+    <string name="title_activity_devices_status_detail_single">DevicesStatusDetailSingleActivity</string>
+    <string name="title_activity_query_order_main">QueryOrderMainActivity</string>
+ <!-- URL -->
+    <!--  --><string name="Server_host_url">http://www.qindayin.com/</string>
+    <string name="Server_url_get_task">machine/privateCloudHandler.ashx</string>
+   
+</resources>

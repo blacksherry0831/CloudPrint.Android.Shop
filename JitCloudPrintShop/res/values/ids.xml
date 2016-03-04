@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- 组合控件id -->
+    <item name="id_item_image" type="id"/>
+    <item name="id_item_text" type="id"/>
+  <!-- 五个组合控件的id -->
+    <item name="id_widgets_business"  type="id"/>
+    <item name="id_widgets_device_state_info"   type="id"/>
+    <item name="id_widgets_finance_info"  type="id"/>
+    <item name="id_widgets_search_order_info"   type="id"/>
+    <item name="id_widgets_exit_app"  type="id"/>
+    <!-- 查询订单 -->
+    <item name="id_query_textview"  type="id"/>
+    <item name="id_query_edittext"   type="id"/>
+    <item name="id_query_button"  type="id"/>
+</resources>
